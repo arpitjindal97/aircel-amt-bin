@@ -1,8 +1,0 @@
-javac ~/Desktop/git/aircel_git_src/src/main/java/verify.java
-mv ~/Desktop/git/aircel_git_src/src/main/java/verify.class verify.class
-
-md5 libs/* > md5.md
-
-git add .
-git commit -m "Fixing verify"
-git push -f origin master
