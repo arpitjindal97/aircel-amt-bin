@@ -1,4 +1,4 @@
-7f2b85fc87f9b898fa045cd397f3bac1  libs/amt.class
+cd0c4543c337de9f85b98f9a19032cd4  libs/amt.class
 9d42e46845c874f1710a9f6a741f6c14  libs/animal-sniffer-annotations-1.14.jar
 35ff17bbc26bfc6cf5a267a88dff5612  libs/byte-buddy-1.7.5.jar
 44d73ed02c1070defad8939806151a3f  libs/chromedriver_linux
@@ -15,6 +15,9 @@ a42f1f5bfa4e6f123ddcab3de7e0ff81  libs/gson-2.8.0.jar
 1965ebb7aca0f9f8faaed3870d8cf689  libs/httpclient-4.5.3.jar
 a9fbd503e0802507efeeaffb56bbdf52  libs/httpcore-4.4.6.jar
 49ae3204bb0bb9b2ac77062641f4a6d7  libs/j2objc-annotations-1.1.jar
+c09faa1b063681cf45706c6df50685b6  libs/jackson-annotations-2.9.0.jar
+456af981c1be006d6ac38df86c4339d6  libs/jackson-core-2.9.2.jar
+312a220f449bdeda184b7007e6ca5540  libs/jackson-databind-2.9.2.jar
 b0e08c9936dc52aa40439c71fcad6297  libs/jna-4.1.0.jar
 533e404eda70bbf8e40de134ffeec95b  libs/jna-platform-4.1.0.jar
 1d5a772e400b04bb67a7ef4a0e0996d8  libs/jsr305-1.3.9.jar
