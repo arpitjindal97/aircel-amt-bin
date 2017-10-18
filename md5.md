@@ -1,3 +1,4 @@
+1f678a9c9f214b07aca422cf21076ebf  libs/amt$1.class
 79792e2d679aeddfb0bfe924c21f2136  libs/amt.class
 9d42e46845c874f1710a9f6a741f6c14  libs/animal-sniffer-annotations-1.14.jar
 35ff17bbc26bfc6cf5a267a88dff5612  libs/byte-buddy-1.7.5.jar
